@@ -1,11 +1,11 @@
-About rathole
-=============
+About rathole-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rathole-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rapiz1/rathole
 
 Package license: Apache-2.0 AND OTHER
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rathole-feedstock/blob/main/LICENSE.txt)
 
 Summary: A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust
 
