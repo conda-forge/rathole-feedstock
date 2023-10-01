@@ -1,5 +1,5 @@
 {% set name = "rathole" %}
-{% set version = "0.4.8" %}
+{% set version = "0.4.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rapiz1/rathole/archive/v{{ version }}.tar.gz
-  sha256: 462ab2f036bccb13f02dfffcf3ac89de687c55f1392e36b2eabbe6bb70b80545
+  sha256: 85f8d22623df9096fc9e5d70aba43b5456b26d7bcc8dd22799334d596f6b489a
 
 build:
   script:
